@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+  <category>
+    <pattern>XIN CHÀO</pattern>
+    <template>Xin chào! Tôi có thể giúp gì cho bạn hôm nay?</template>
+  </category>
+  <category>
+    <pattern>TÊN CỦA BẠN LÀ GÌ</pattern>
+    <template>Tôi là ChatBot. Rất vui được gặp bạn!</template>
+  </category>
+  
+  <category>
+    <pattern>KỂ VỀ BẠN</pattern>
+    <template>Tôi là một chatbot được tạo ra để cung cấp thông tin và trả lời các câu hỏi của bạn. Hãy hỏi tôi bất cứ điều gì bạn muốn!</template>
+  </category>
+  <category>
+    <pattern>NĂM NAY LÀ NĂM GÌ</pattern>
+    <template>Năm nay là năm 2023</template>
+  </category>
+  <category>
+    <pattern>NĂM tới LÀ NĂM GÌ</pattern>
+    <template>Năm nay là năm 2024</template>
+  </category>
+  <category>
+    <pattern>TẠM BIỆT</pattern>
+    <template>Tạm biệt! Chúc bạn một ngày tốt lành.</template>
+  </category>
+
+  <category>
+    <pattern>BẠN LÀ AI</pattern>
+    <template>Tôi là một chatbot được tạo bởi OpenAI. Tôi có thể trả lời các câu hỏi của bạn và cung cấp thông tin tổng quan.</template>
+  </category>
+<category>
+  <pattern>thời tiết hôm nay tại Thành Phố Hồ Chí Minh</pattern>
+  <template>Xin lỗi, tôi không có thông tin thời tiết thời gian thực tại Thành Phố Hồ Chí Minh. Hãy kiểm tra trang web hoặc ứng dụng thời tiết cho thông tin chi tiết.</template>
+</category>
+  <category>
+    <pattern>LÀM THẾ NÀO ĐỂ LIÊN HỆ VỚI BẠN</pattern>
+    <template>Để liên hệ với tôi, bạn có thể sử dụng giao diện trò chuyện này. Tôi sẽ cố gắng trả lời câu hỏi của bạn càng tốt nhất có thể.</template>
+  </category>
+  <category>
+  <pattern>*</pattern>
+  <template>Xin lỗi, tôi không hiểu câu hỏi của bạn hoặc chưa được lập trình để trả lời câu hỏi này. Vui lòng đặt câu hỏi khác hoặc cung cấp thông tin cụ thể hơn để tôi có thể giúp đỡ bạn tốt hơn.</template>
+</category>
+</aiml>
